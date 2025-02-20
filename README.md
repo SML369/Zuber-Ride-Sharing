@@ -62,15 +62,15 @@ description: Short description of weather conditions (e.g., "light rain," "scatt
 
 * Exploratory Data Analysis (EDA):
 
-Identified ride trends by time of day, company, and neighborhood
+* Identified ride trends by time of day, company, and neighborhood
 
-Analyzed trip duration and distance distributions
+* Analyzed trip duration and distance distributions
 
 * Hypothesis Testing:
 
-Examined the impact of weather on ride demand using statistical analysis
+* Examined the impact of weather on ride demand using statistical analysis
 
-Compared ride frequency on rainy vs. clear days
+* Compared ride frequency on rainy vs. clear days
 
-* Visualizations:
+
 
